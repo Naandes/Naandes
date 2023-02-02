@@ -3,11 +3,10 @@
 
 Hey there 👋,
 
-I'm majoring in Computer Engineering at the Federal University of Bahia and I have been the CEO of the Junior Company of Computer Engineering.
+I'm majoring in Computer Engineering at the Federal University of Bahia.
 
 In addition, one of my passions is information around science, technology, data science, among others. And due to the 2020 pandemic, I entered the Bootcamp of <a href="https://www.linkedin.com/school/inteli-edu/">Inteli - Institute of Technology and Leadership</a>, in which I developed an agglomeration control solution in shared workspaces through artificial intelligence - an open source project and commissioned by the company Exame.
 
-I currently work as a **Intern Data Scientist** at <a href="https://www.linkedin.com/company/eisa-tecnologia/">Eisa</a> and I'm participating in the Bootcamp Applied Data Science of <a href="https://www.linkedin.com/school/aluracursos/">Alura</a> focusing on the main techniques and technologies of Data Science and Machine Learning.&nbsp;&nbsp;
 
 ### Skills ⚡
 
@@ -27,6 +26,8 @@ I currently work as a **Intern Data Scientist** at <a href="https://www.linkedin
   <li>Kubernetes</li>
   <li>Docker</li>
   <li>Git</li>
+  <li>AWS</li>
+  
 </ul>
 
 ### Contact Me 💻
