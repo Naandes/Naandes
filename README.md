@@ -3,9 +3,11 @@
 
 Hey there 👋,
 
-I'm majoring in Computer Engineering at the Federal University of Bahia.
+I'm graduating in Science and Technology from the Federal University of Bahia.
 
-In addition, one of my passions is information around science, technology, data science, among others. And due to the 2020 pandemic, I entered the Bootcamp of <a href="https://www.linkedin.com/school/inteli-edu/">Inteli - Institute of Technology and Leadership</a>, in which I developed an agglomeration control solution in shared workspaces through artificial intelligence - an open source project and commissioned by the company Exame.
+Also, one of my passions is information about science, technology, data science, and more. And due to the 2020 pandemic, I entered the Bootcamp of <a href="https://www.linkedin.com/school/inteli-edu/">Inteli - Instituto de Tecnologia e Líder</a>, in which I developed a crowd control solution in shared workspaces using artificial intelligence - an open source project commissioned by Exame.
+
+Currently my focus of study is Data Engineering and I seek to develop myself to work in the area.
 
 
 ### Skills ⚡
